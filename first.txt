@@ -4,3 +4,4 @@ This is my first insert git
 Git is distributed version control system
 git is free software distribited under the GPL
 修改文件后进行提交到git版本库
+继续学习暂存区`
